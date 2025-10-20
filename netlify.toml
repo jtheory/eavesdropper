@@ -23,7 +23,7 @@
 # A basic redirect rule
 [[redirects]]
   from = "/*"
-  to = "/Eavesdropper_ The Hire.html"
+  to = "/The Hire.html"
   status = 200
 
 # Docs: https://docs.netlify.com/configure-builds/file-based-configuration/
